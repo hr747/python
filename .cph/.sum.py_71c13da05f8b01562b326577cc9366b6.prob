@@ -1,0 +1,1 @@
+{"name":"Local: sum","url":"d:\\phitron\\SDT\\python\\sum.py","tests":[{"id":1791970655989,"input":"2\n4\n5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\SDT\\python\\sum.py","group":"local","local":true}

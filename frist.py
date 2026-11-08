@@ -1,0 +1,5 @@
+n1= float(input())
+n2=float(input())
+n3=float(input())
+l= max(n1,n2,n3)
+print(l)

@@ -1,0 +1,1 @@
+{"name":"Local: loop","url":"d:\\phitron\\SDT\\python\\loop.py","tests":[{"id":1791971184953,"input":"2\n8\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\SDT\\python\\loop.py","group":"local","local":true}
